@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+/* div {
+  color: blue;
+  border: 2px solid violet;
+} */
+
+div {
+  width: 100px;
+  height: 100px;
+}
+
+.title {
+color: blueviolet;
+}
+
+.content {
+  padding: 30px;
+  width: 50%
+  /* calc(50% - 64px) */;
+
+}
+
+.green {
+  background: green;
+}
+
+.red {
+  position: relative;
+  background: red;
+}
+
+.blue {
+  background: blue;
+}
+
+
